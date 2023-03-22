@@ -1,0 +1,18 @@
+body{
+   background-color:bisque;
+   text-align:justify;
+   font-size: 30px; 
+   
+}
+img{
+
+    border-radius: 50%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.navbar
+{
+
+
+    font-size: 30px;
+}
